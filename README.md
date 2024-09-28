@@ -1,2 +1,2 @@
 # .NET-Tailwind
-.NET combine with Tailwind
+Trying to combine Tailwindcss inside .NET web project
